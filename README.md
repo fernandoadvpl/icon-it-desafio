@@ -139,8 +139,8 @@ Para dúvidas ou mais informações, entre em contato:
 
 - **Nome:** Fernando Alves
 - **Email:** contato@fernandoalves.dev
-- **LinkedIn:** (https://www.linkedin.com/in/fernandoalvessilva/)
+- **LinkedIn:** https://www.linkedin.com/in/fernandoalvessilva/
 
 ---
 
-Feito com ❤️ por (https://github.com/fernandoadvpl)
+Feito com ❤️ por https://github.com/fernandoadvpl
